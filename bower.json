@@ -1,0 +1,22 @@
+{
+  "name": "lb_font",
+  "version": "0.1.0",
+  "authors": [
+    "Gerasev Kirill <gerasev.kirill@gmail.com>"
+  ],
+  "description": "Iconic font(brand icons)",
+  "main": "./less/style.less",
+  "keywords": [
+    "font",
+    "brand",
+    "icon"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
